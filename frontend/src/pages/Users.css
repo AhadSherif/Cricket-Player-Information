@@ -1,0 +1,19 @@
+thead tr{
+    background-color: black !important;
+}
+
+thead tr th{
+    background-color: black;
+    color: white;
+}
+.bg {
+ background-color: black !important;
+}
+.roll{
+    color: black;
+    background-color: antiquewhite;
+    margin-left: 50px;
+    margin-bottom: 400px;
+    padding: 20px;
+    
+}
